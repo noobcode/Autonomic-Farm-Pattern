@@ -1,2 +1,2 @@
-# Autonomic-Farm-Pattern
-Implementation and validation of the Farm stream parallel pattern with concurrency throttling mechanism.
+# Parallel-and-Distributed-Systems
+Assignments for the course of "Parallel and Distributed Systems: paradigm and models"
